@@ -1,5 +1,6 @@
-## veh plate input
-### 1. How To Use.
-1.1 add an input tag to your code with class 'inputPlate', 'readonly' is recommend.
-1.2 jquery(>=1.7) is require.
-### 2. 
+# Veh Plate Input
+A simple, lightweight jQuery plugins for veh-plate inputing.
+
+## Installation
+### Direct download
+Starting with [releases](https://github.com/mewchen/plateinput/releases)
